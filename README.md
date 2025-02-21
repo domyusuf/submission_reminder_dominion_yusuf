@@ -32,10 +32,10 @@ submission_reminder_<username>/
 ## Installation & Usage
 1. **Run the Script**
    ```bash
-   chmod +x script.sh
-   ./script.sh
+   chmod +x create_environment.sh
+   ./create_environment.sh
    ```
-i2. **Enter Your Name** when prompted.
+2. **Enter Your Name** when prompted**
 3. **Execute the Startup Script**
    ```bash
    cd submission_reminder_<your_name>/
