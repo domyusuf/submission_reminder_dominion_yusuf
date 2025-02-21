@@ -30,12 +30,12 @@ submission_reminder_<username>/
 ```
 
 ## Installation & Usage
-1. **Run the Script**
+1. **Make Script Executable and Run the Script**
    ```bash
    chmod +x create_environment.sh
    ./create_environment.sh
    ```
-2. **Enter Your Name** when prompted**
+2. **Navigate To Newly Created Directory**
 3. **Execute the Startup Script**
    ```bash
    cd submission_reminder_<your_name>/
