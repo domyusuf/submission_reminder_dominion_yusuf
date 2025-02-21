@@ -60,20 +60,8 @@ Example Output:
 Assignment: Shell Navigation
 Days remaining to submit: 2 days
 --------------------------------------------
-Reminder: Chinemerem has not submitted the Shell Navigation assignment!
-Reminder: Divine has not submitted the Shell Navigation assignment!
+Reminder: Menes has not submitted the Shell Navigation assignment!
+Reminder: Grace has not submitted the Shell Navigation assignment!
 ```
-
-## Troubleshooting
-- Ensure the script is **executable** using `chmod +x script.sh`.
-- Verify the correct **file paths** in the `startup.sh` script.
-- Check for **typos or missing dependencies** in your system.
-
-## Future Enhancements
-- Add email notifications for reminders.
-- Implement a database for better tracking.
-- Enhance user input validation.
-
-This script simplifies tracking and reminding students about pending assignments, making the process more efficient and organized.
 
 
