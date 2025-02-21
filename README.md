@@ -32,7 +32,7 @@ submission_reminder_<username>/
 ## Installation & Usage
 1. **Clone Repository**
    ```bash
-   git clone 
+   git clone https://github.com/domyusuf/submission_reminder_dominion_yusuf
    ```
 
 2. **Make Script Executable and Run the Script**
