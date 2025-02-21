@@ -30,12 +30,17 @@ submission_reminder_<username>/
 ```
 
 ## Installation & Usage
-1. **Make Script Executable and Run the Script**
+1. **Clone Repository**
+   ```bash
+   git clone 
+   ```
+
+2. **Make Script Executable and Run the Script**
    ```bash
    chmod +x create_environment.sh
    ./create_environment.sh
    ```
-2. **Navigate To Newly Created Directory and Execute the Startup Script**
+3. **Navigate To Newly Created Directory and Execute the Startup Script**
    ```bash
    cd submission_reminder_<your_name>/
    ./startup.sh
