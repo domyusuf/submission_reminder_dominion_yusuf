@@ -35,8 +35,7 @@ submission_reminder_<username>/
    chmod +x create_environment.sh
    ./create_environment.sh
    ```
-2. **Navigate To Newly Created Directory**
-3. **Execute the Startup Script**
+2. **Navigate To Newly Created Directory and Execute the Startup Script**
    ```bash
    cd submission_reminder_<your_name>/
    ./startup.sh
